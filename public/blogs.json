@@ -1,0 +1,52 @@
+[
+    {
+      "id": "1",
+      "title": "The Quantum Chronicles",
+      "cover": "https://i.ibb.co/Y2hptvy/daily-news-announcement-information-report-concept.jpg",
+      "author": "Astrid Nebula",
+      "author_img": "https://i.ibb.co/BqQN5vV/IMG-20221224-182052.jpg",
+      "posted_date": "2023-11-09",
+      "reading_time": 45,
+      "hashtags": ["sciencefiction", "quantumphysics"]
+    },
+    {
+      "id": "2",
+      "title": "Enchanted Forest Adventures",
+      "cover": "https://i.ibb.co/vwFnvVG/network-connection-graphic-overlay-background-computer-screen.jpg",
+      "author": "Mystical Wanderer",
+      "author_img": "https://i.ibb.co/KNqBHz2/IMG-20220218-173651.jpg",
+      "posted_date": "2023-11-10",
+      "reading_time": 30,
+      "hashtags": ["fantasy", "adventure"]
+    },
+    {
+      "id": "3",
+      "title": "Coding Wonders",
+      "cover": "https://i.ibb.co/MR6Ghkp/news-newspaper-news-feed-report-information-concept.jpg",
+      "author": "Byte Master",
+      "author_img": "https://i.ibb.co/FVTfm1s/IMG-20220328-220644.jpg",
+      "posted_date": "2023-11-11",
+      "reading_time": 60,
+      "hashtags": ["coding", "technology"]
+    },
+    {
+      "id": "4",
+      "title": "Gastronomic Delights",
+      "cover": "https://i.ibb.co/wYWCS2Q/newspaper-background-concept.jpg",
+      "author": "Epicurean Explorer",
+      "author_img": "https://i.ibb.co/J5VtKLz/IMG-20220329-144000.jpg",
+      "posted_date": "2023-11-12",
+      "reading_time": 40,
+      "hashtags": ["foodie", "culinary"]
+    },
+    {
+      "id": "5",
+      "title": "Celestial Harmony",
+      "cover": "https://i.ibb.co/3f6SFTC/nn.jpghttps://i.ibb.co/PmrGF21/various-microphones-aligned-press-conference.jpg",
+      "author": "Stellar Harmony",
+      "author_img": "https://i.ibb.co/3f6SFTC/nn.jpg",
+      "posted_date": "2023-11-13",
+      "reading_time": 55,
+      "hashtags": ["spirituality", "cosmic"]
+    }
+  ]
